@@ -5,6 +5,10 @@
 - 📫 How to reach me: [gillarohith1@gmail.com](mailto:gillarohith1@gmail.com)
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithgilla12&theme=dark" alt="Rohithgilla12" />
 </p>
