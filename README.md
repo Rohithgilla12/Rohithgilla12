@@ -11,6 +11,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithgilla12&theme=dark" alt="Rohithgilla12" />
 </p>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Rohithgilla12?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
+
 <!--
 **Rohithgilla12/Rohithgilla12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
