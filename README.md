@@ -5,6 +5,9 @@
 - 📫 How to reach me: [gillarohith1@gmail.com](mailto:gillarohith1@gmail.com)
 - 🔭 I’m currently working on a cool menu bar application.
 
+# Recent Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <p align="center">
@@ -12,6 +15,7 @@
 </p>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Rohithgilla12?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
+
 
 <!--
 **Rohithgilla12/Rohithgilla12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
