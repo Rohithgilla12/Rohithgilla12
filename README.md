@@ -7,6 +7,11 @@
 
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Generate your own Dev.to wrapped 2021](https://dev.to/gillarohith/generate-your-own-devto-wrapped-2021-3g9m)
+- [How I bought loading time of a media from ~3s to  ~100ms or less](https://dev.to/gillarohith/how-i-bought-loading-time-of-a-media-from-3s-to-100ms-or-less-3m2e)
+- [Generate realtime GitHub contribution chart using puppeteer and update it realtime in your twitter banner.](https://dev.to/gillarohith/generate-realtime-github-contribution-chart-using-puppeteer-and-update-it-realtime-in-your-twitter-banner-3l32)
+- [Automate your personal CRM with Notion and Kelvin Data](https://dev.to/gillarohith/automate-your-personal-crm-with-notion-and-kelvin-data-ono)
+- [Develop URL shortener application with Redwood JS.](https://dev.to/gillarohith/develop-url-shortener-application-with-redwood-js-3cf7)
 <!-- BLOG-POST-LIST:END -->
 
 
