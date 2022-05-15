@@ -3,7 +3,7 @@
 ![Hello](https://i.giphy.com/media/fTI9mBoWLef8k/giphy.gif)
 
 - 📫 How to reach me: [gillarohith1@gmail.com](mailto:gillarohith1@gmail.com)
-- 🔭 I’m currently working on a cool menu bar application.
+- 🔭 I’m currently working on an app to generate images from your tweets / images as api
 
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
