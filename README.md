@@ -4,6 +4,7 @@
 
 - 📫 How to reach me: [gillarohith1@gmail.com](mailto:gillarohith1@gmail.com)
 - 🔭 I’m currently working on an app to generate images from your tweets / images as api
+- DM me if you want to contribute to the above project 
 
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
