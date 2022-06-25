@@ -22,7 +22,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithgilla12&theme=dark" alt="Rohithgilla12" />
 </p>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Rohithgilla12?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
+<!--  Commenting it out since the above covers post of the required thing-->
+<!-- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Rohithgilla12?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card) -->
 
 <!--
 ![Views](https://relaxed-joliot-41cdfa.netlify.app/.netlify/functions/counter?id=39)
