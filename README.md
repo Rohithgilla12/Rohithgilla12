@@ -10,11 +10,11 @@
 
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate your personal CRM with Notion and Hazel Base](https://dev.to/gillarohith/automate-your-personal-crm-with-notion-and-hazel-base-2j5)
 - [ShortCut - Blazingly fast URL Shortener with great analytics built in](https://dev.to/gillarohith/shortcut-blazingly-fast-url-shortener-with-great-analytics-built-in-120k)
 - [Generate your own Dev.to wrapped 2021](https://dev.to/gillarohith/generate-your-own-devto-wrapped-2021-3g9m)
 - [How I brought loading time of a media from ~3s to ~100ms or less](https://dev.to/gillarohith/how-i-bought-loading-time-of-a-media-from-3s-to-100ms-or-less-3m2e)
 - [Generate realtime GitHub contribution chart using puppeteer and update it realtime in your twitter banner.](https://dev.to/gillarohith/generate-realtime-github-contribution-chart-using-puppeteer-and-update-it-realtime-in-your-twitter-banner-3l32)
-- [Automate your personal CRM with Notion and Kelvin Data](https://dev.to/gillarohith/automate-your-personal-crm-with-notion-and-kelvin-data-ono)
 <!-- BLOG-POST-LIST:END -->
 
 
