@@ -3,10 +3,6 @@
 ![Bello](https://i.giphy.com/media/fTI9mBoWLef8k/giphy.gif)
 
 - 📫 How to reach me: [gillarohith1@gmail.com](mailto:gillarohith1@gmail.com)
-- 🔭 I’m currently working on an app to generate images from your tweets / images as api
-<!-- - 💬 Ask me about `Flutter` , `Dart`, `TS`, `JS`, `Python` and app dev related questions :D -->
-- DM me on Twitter if you want to contribute to the above project 
-- [Schedule a call](https://zcal.co/rohithgilla/hello)
 
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
