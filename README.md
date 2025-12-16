@@ -6,11 +6,11 @@
 
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Tech Stack Behind data-peek: Modern Desktop Development in 2025](https://dev.to/gillarohith/the-tech-stack-behind-data-peek-modern-desktop-development-in-2025-515o)
 - [Why I Built Yet Another SQL Client &lpar;And Made It Open Source&rpar;](https://dev.to/gillarohith/why-i-built-yet-another-sql-client-and-made-it-open-source-235d)
 - [[Boost]](https://dev.to/gillarohith/-3nkj)
 - [Page Zen: The Open-Source Article Cleaning API You&#39;ve Been Waiting For](https://dev.to/gillarohith/page-zen-the-open-source-article-cleaning-api-youve-been-waiting-for-301e)
 - [Effortless Logging and Insights: Transform Your Flutter App with Telemetry.sh](https://dev.to/gillarohith/effortless-logging-and-insights-transform-your-flutter-app-with-telemetrysh-2g72)
-- [Echo Diary: Your personal companion](https://dev.to/gillarohith/echo-diary-your-personal-companion-5291)
 <!-- BLOG-POST-LIST:END -->
 
 
