@@ -6,11 +6,11 @@
 
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Put pg_stat_activity in My SQL Client — And Added a Kill Button](https://dev.to/gillarohith/i-put-pgstatactivity-in-my-sql-client-and-added-a-kill-button-481i)
 - [Supporting 3 Databases with One Codebase: The Adapter Pattern](https://dev.to/gillarohith/supporting-3-databases-with-one-codebase-the-adapter-pattern-3027)
 - [The Tech Stack Behind data-peek: Modern Desktop Development in 2025](https://dev.to/gillarohith/the-tech-stack-behind-data-peek-modern-desktop-development-in-2025-515o)
 - [Why I Built Yet Another SQL Client &lpar;And Made It Open Source&rpar;](https://dev.to/gillarohith/why-i-built-yet-another-sql-client-and-made-it-open-source-235d)
 - [[Boost]](https://dev.to/gillarohith/-3nkj)
-- [Page Zen: The Open-Source Article Cleaning API You&#39;ve Been Waiting For](https://dev.to/gillarohith/page-zen-the-open-source-article-cleaning-api-youve-been-waiting-for-301e)
 <!-- BLOG-POST-LIST:END -->
 
 
