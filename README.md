@@ -6,11 +6,11 @@
 
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Generating Realistic Seed Data That Respects Foreign Keys, in 20 Seconds](https://dev.to/gillarohith/generating-realistic-seed-data-that-respects-foreign-keys-in-20-seconds-2617)
 - [Stop Pasting \timing — Run Your SQL 100 Times and Get p99](https://dev.to/gillarohith/stop-pasting-timing-run-your-sql-100-times-and-get-p99-1g37)
 - [Debugging Postgres LISTEN/NOTIFY Is Finally Pleasant](https://dev.to/gillarohith/debugging-postgres-listennotify-is-finally-pleasant-12ip)
 - [I Can Finally Screen-Share My SQL Client Without Leaking Prod Data](https://dev.to/gillarohith/i-can-finally-screen-share-my-sql-client-without-leaking-prod-data-im9)
 - [I Put pg_stat_activity in My SQL Client — And Added a Kill Button](https://dev.to/gillarohith/i-put-pgstatactivity-in-my-sql-client-and-added-a-kill-button-481i)
-- [Supporting 3 Databases with One Codebase: The Adapter Pattern](https://dev.to/gillarohith/supporting-3-databases-with-one-codebase-the-adapter-pattern-3027)
 <!-- BLOG-POST-LIST:END -->
 
 
